@@ -1,0 +1,59 @@
+body{
+		background-color: #0F119B;
+
+     }
+
+h3{
+	display: inline-block;
+	padding: 15px;
+}
+
+a{
+	color: silver;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+a:hover{
+	color: red;
+}
+
+
+h1{
+	text-align: center;
+	color: silver;
+	font-weight: bold;
+	font-size: 60px;
+	text-decoration: underline;
+
+}
+
+td{
+	font-size: 20px;
+	color: white;
+}
+
+input,textarea{
+	border-radius: 7px;
+	font-size: 20px;
+}
+
+.td2{
+	font-size: 16px;
+}
+
+th{
+	background-color: silver;
+	font-size: 18px;
+
+}
+
+.a1{
+	font-size: 18px;
+	color: red;
+
+}
+
+.a1:hover{
+	color: white;
+}
